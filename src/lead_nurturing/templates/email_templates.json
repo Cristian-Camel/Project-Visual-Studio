@@ -1,0 +1,32 @@
+[
+  {
+    "id": "nurture-1",
+    "subject": "Bienvenido a nuestra comunidad",
+    "body": "Hola {{ first_name }},\n\nGracias por registrarte. Queremos ayudarte a empezar rápido. Aquí tienes una guía inicial y nuestros mejores recursos para que aproveches la plataforma desde el primer día.\n\n¿Tienes dudas? Responde a este correo y te apoyaremos."
+  },
+  {
+    "id": "nurture-2",
+    "subject": "Historias de éxito que te inspiran",
+    "body": "Hola {{ first_name }},\n\nQueremos mostrarte cómo otros equipos lograron resultados medibles usando nuestra solución. En este enlace encontrarás 3 casos de uso con métricas concretas.\n\n¿Cuál de estos retos tienes hoy? Podemos contarte más en una llamada rápida."
+  },
+  {
+    "id": "nurture-3",
+    "subject": "Checklist para lanzar tu primer proyecto",
+    "body": "Hola {{ first_name }},\n\nPreparamos una checklist corta para que valides si ya tienes todo listo para lanzar tu proyecto piloto. Incluye tiempos, responsables y plantillas descargables.\n\nSi quieres, podemos revisarla juntos y adaptarla a tu equipo."
+  },
+  {
+    "id": "nurture-4",
+    "subject": "Optimiza tu proceso en 30 minutos",
+    "body": "Hola {{ first_name }},\n\nCompartimos un video de 10 minutos donde mostramos cómo automatizar las tareas repetitivas más comunes. También incluimos un calendario de trabajo sugerido para las próximas semanas.\n\n¿Quieres que configuremos un flujo específico para tu caso?"
+  },
+  {
+    "id": "nurture-5",
+    "subject": "Checklist de seguridad y cumplimiento",
+    "body": "Hola {{ first_name }},\n\nSabemos que la seguridad es crítica. Creamos un resumen con nuestras prácticas de cumplimiento, configuraciones recomendadas y preguntas frecuentes.\n\nSi tu equipo legal necesita más detalles, podemos compartir la documentación extendida."
+  },
+  {
+    "id": "nurture-6",
+    "subject": "Último recordatorio: acompáñanos en vivo",
+    "body": "Hola {{ first_name }},\n\nEste es el último correo de la serie. Tendremos una sesión en vivo para resolver dudas y mostrar funciones avanzadas. Reserva tu lugar en el enlace adjunto.\n\nSi ya no quieres recibir mensajes, avísanos y cancelaremos la secuencia."
+  }
+]
